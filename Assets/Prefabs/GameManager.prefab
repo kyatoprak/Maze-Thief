@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7031248647427510454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5506318627589880038}
+  - component: {fileID: 8670224860337169742}
+  - component: {fileID: 4981059367544642576}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5506318627589880038
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7031248647427510454}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.4, y: 8.3, z: -0.2155783}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8670224860337169742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7031248647427510454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659ac76458360634ca6b5acf531a689c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wallPrefab: {fileID: 5704938756595179040, guid: c98dd2d87f0119b45aaa73687543e6dd, type: 3}
+  doorPrefab: {fileID: 0}
+  width: 30
+  height: 30
+  brick: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  pathMazes: []
+--- !u!114 &4981059367544642576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7031248647427510454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c40d97564b5eee74aaad9f7ceb76b27d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 7864494703597201278, guid: bf100a70248f0d548b63fab23242a6e7, type: 3}
+  objectPrefabs:
+  - {fileID: 3102121865513116838, guid: 6bd254b8d44c8604fba96dcd4ae82d41, type: 3}
+  - {fileID: 5807335403717678141, guid: 0233e32b5a8b1ec4fb2b55b495106f6b, type: 3}
+  - {fileID: 1332212188647199728, guid: 9e50ee313acdcb24f8a7f4d1d8b801b3, type: 3}
+  - {fileID: 2383022039923425514, guid: 9af7b7c1307768e4185db6bb653a6d5a, type: 3}
+  - {fileID: 5671200643275964384, guid: c633ad8103f163d4db8f31512458bfca, type: 3}
+  chest: {fileID: 5457365314290749755, guid: fbf8da60c8b975b42b2594bdd1f0e72f, type: 3}
+  audioSourca: {fileID: 0}
+  HealAudioClip: {fileID: 8300000, guid: 052ca0f6167894a45b8b358e4af996fa, type: 3}
+  TreasureAudioClip: {fileID: 8300000, guid: b879ac02b2d83a24c870732518c6d88d, type: 3}
+  BombAudioClip: {fileID: 8300000, guid: bd83a12d479260247960921d5cc9fa5d, type: 3}
+  EyeAudioClip: {fileID: 8300000, guid: 5adce1e73693f1945b48090b822167df, type: 3}
+  SlowEffect: {fileID: 8300000, guid: be1ab29ba6c828c4087de9800d67a15f, type: 3}
+  GameStartAudioClip: {fileID: 8300000, guid: 5af635b084fc99545a3fb3b8bdf5c657, type: 3}
+  ChestOpenAudioClip: {fileID: 8300000, guid: 00edf90772630c64eac98d18797547c6, type: 3}
+  DoorForce: {fileID: 8300000, guid: eb8b981ca5b1d024e906c128c0337b63, type: 3}
+  DoorOpening: {fileID: 8300000, guid: 9b4ff2aa8a18e994c86933cad9a2506e, type: 3}
+  resumeGameTimer: {fileID: 0}
+  GameIsFinishedPanel: {fileID: 0}
+  pauseMenu: {fileID: 0}
+  BlackOutPanel: {fileID: 0}
+  treasures: []
+  GameIsActive: 0
+  GameObjects: []
+  blackOutBool: 0
+  Level: 2

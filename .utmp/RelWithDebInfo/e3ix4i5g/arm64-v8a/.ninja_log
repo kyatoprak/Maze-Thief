@@ -1,0 +1,23 @@
+# ninja log v5
+338	1801	7796624451641143	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9b9a70e3ded36fa6
+187	7686	7796624510368991	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c09eb4e8a94cdb60
+1802	2626	7796624458942514	D:/UnityProjelerim/Maze Thief/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3ix4i5g/obj/arm64-v8a/libswappywrapper.so	7bf2614e6a010cef
+311	6232	7796624495839755	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	208ad01e97251f0d
+201	6143	7796624494992994	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b2f5c41e09edfa31
+279	6349	7796624497114258	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	18db5ecef2e30b4d
+256	6580	7796624499187029	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	87dcda940e85bcb9
+235	6284	7796624496026602	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24541a58983f8863
+325	6614	7796624499431271	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ec6056994b75b7c3
+297	7352	7796624507082142	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d2a157c45768a0f9
+7687	8021	7796624513831572	D:/UnityProjelerim/Maze Thief/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3ix4i5g/obj/arm64-v8a/libgame.so	2d474682dcd4d0fa
+1085	4329	7796636364436604	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9b9a70e3ded36fa6
+4330	5998	7796636382118466	D:/UnityProjelerim/Maze Thief/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3ix4i5g/obj/arm64-v8a/libswappywrapper.so	7bf2614e6a010cef
+764	20968	7796636531938327	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	208ad01e97251f0d
+1031	21353	7796636535829710	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	18db5ecef2e30b4d
+136	21412	7796636536389132	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b2f5c41e09edfa31
+145	21437	7796636536591130	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24541a58983f8863
+197	21479	7796636537049714	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	87dcda940e85bcb9
+1056	21503	7796636537307699	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ec6056994b75b7c3
+1044	21877	7796636541035135	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d2a157c45768a0f9
+17	21932	7796636541557056	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c09eb4e8a94cdb60
+21933	22338	7796636545587548	D:/UnityProjelerim/Maze Thief/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3ix4i5g/obj/arm64-v8a/libgame.so	2d474682dcd4d0fa

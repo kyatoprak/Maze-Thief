@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 9e17b89beda4ad449aa9174d566d4a69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5076351597044579135
+    second: Sprite-fantasma2_0
+  - first:
+      213: -17967264762636545
+    second: Sprite-fantasma2_1
+  - first:
+      213: 5934192656822786814
+    second: Sprite-fantasma2_2
+  - first:
+      213: -3146653640129575723
+    second: Sprite-fantasma2_3
+  - first:
+      213: -146904167723744015
+    second: Sprite-fantasma2_4
+  - first:
+      213: -1737413747966491846
+    second: Sprite-fantasma2_5
+  - first:
+      213: -968759516028333460
+    second: Sprite-fantasma2_6
+  - first:
+      213: 1001155493548270404
+    second: Sprite-fantasma2_7
+  - first:
+      213: -4043127816575432574
+    second: Sprite-fantasma2_8
+  - first:
+      213: 8594378177693512200
+    second: Sprite-fantasma2_9
+  - first:
+      213: 8590510693655545328
+    second: Sprite-fantasma2_10
+  - first:
+      213: 2260170134324321392
+    second: Sprite-fantasma2_11
+  - first:
+      213: 305255050553332266
+    second: Sprite-fantasma2_12
+  - first:
+      213: -7983977166328225152
+    second: Sprite-fantasma2_13
+  - first:
+      213: -6794244915927929008
+    second: Sprite-fantasma2_14
+  - first:
+      213: -8927597139754839934
+    second: Sprite-fantasma2_15
+  - first:
+      213: -1169334926359547196
+    second: Sprite-fantasma2_16
+  - first:
+      213: -6607633720198955698
+    second: Sprite-fantasma2_17
+  - first:
+      213: 3169734996874438958
+    second: Sprite-fantasma2_18
+  - first:
+      213: 3773735527791319226
+    second: Sprite-fantasma2_19
+  - first:
+      213: 194967078932611732
+    second: Sprite-fantasma2_20
+  - first:
+      213: 3919991311087536118
+    second: Sprite-fantasma2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-fantasma2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b34d0c1e2d27640800000000000000
+      internalID: 5076351597044579135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6dc3e2eda20cff0800000000000000
+      internalID: -17967264762636545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa57aad7cc7a5250800000000000000
+      internalID: 5934192656822786814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d403ec9f27d454d0800000000000000
+      internalID: -3146653640129575723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f44dc2107716fdf0800000000000000
+      internalID: -146904167723744015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33c394c66773e7e0800000000000000
+      internalID: -1737413747966491846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 86
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621a565a564e82f0800000000000000
+      internalID: -968759516028333460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44320e5fd91d4ed00800000000000000
+      internalID: 1001155493548270404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28845871cace3e7c0800000000000000
+      internalID: -4043127816575432574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 109
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8027acaea6d554770800000000000000
+      internalID: 8594378177693512200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5888e16ff973770800000000000000
+      internalID: 8590510693655545328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c195423ccbd5f10800000000000000
+      internalID: 2260170134324321392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221026e9db7c3400800000000000000
+      internalID: 305255050553332266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0822d227117333190800000000000000
+      internalID: -7983977166328225152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fac151f3ef5b1a0800000000000000
+      internalID: -6794244915927929008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2809e1ba3bdca1480800000000000000
+      internalID: -8927597139754839934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b1e27410b5cfe0800000000000000
+      internalID: -1169334926359547196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df5a5e328fc44a0800000000000000
+      internalID: -6607633720198955698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2923d88f292dfb20800000000000000
+      internalID: 3169734996874438958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d54ae7700f5430800000000000000
+      internalID: 3773735527791319226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4928caa7689a4b200800000000000000
+      internalID: 194967078932611732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-fantasma2_21
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f78df3145b966630800000000000000
+      internalID: 3919991311087536118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite-fantasma2_0: 5076351597044579135
+      Sprite-fantasma2_1: -17967264762636545
+      Sprite-fantasma2_10: 8590510693655545328
+      Sprite-fantasma2_11: 2260170134324321392
+      Sprite-fantasma2_12: 305255050553332266
+      Sprite-fantasma2_13: -7983977166328225152
+      Sprite-fantasma2_14: -6794244915927929008
+      Sprite-fantasma2_15: -8927597139754839934
+      Sprite-fantasma2_16: -1169334926359547196
+      Sprite-fantasma2_17: -6607633720198955698
+      Sprite-fantasma2_18: 3169734996874438958
+      Sprite-fantasma2_19: 3773735527791319226
+      Sprite-fantasma2_2: 5934192656822786814
+      Sprite-fantasma2_20: 194967078932611732
+      Sprite-fantasma2_21: 3919991311087536118
+      Sprite-fantasma2_3: -3146653640129575723
+      Sprite-fantasma2_4: -146904167723744015
+      Sprite-fantasma2_5: -1737413747966491846
+      Sprite-fantasma2_6: -968759516028333460
+      Sprite-fantasma2_7: 1001155493548270404
+      Sprite-fantasma2_8: -4043127816575432574
+      Sprite-fantasma2_9: 8594378177693512200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

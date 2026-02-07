@@ -1,0 +1,25 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.vS/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# Crash reports
+sysinfo.txt

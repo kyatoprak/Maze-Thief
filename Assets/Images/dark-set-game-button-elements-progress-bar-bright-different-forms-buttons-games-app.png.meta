@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 138cf4e99dc07554fbdf2408f319339f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3319104131474216926
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_0
+  - first:
+      213: 1390336921901335302
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_1
+  - first:
+      213: 164178120842397975
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_2
+  - first:
+      213: -593044358466150675
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_3
+  - first:
+      213: 987963299747273735
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_4
+  - first:
+      213: -3194182993844694017
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_5
+  - first:
+      213: -6352580007997715158
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_6
+  - first:
+      213: 3765851807472924733
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_7
+  - first:
+      213: 1429256178485185125
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_8
+  - first:
+      213: -8423560547690238812
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_9
+  - first:
+      213: 2212128962248574754
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_10
+  - first:
+      213: -8706874667329131923
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_11
+  - first:
+      213: -4578223399659828401
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_12
+  - first:
+      213: -1301460317200142411
+    second: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1485
+        width: 396
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75d094f93df0e20800000000000000
+      internalID: 3319104131474216926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1485
+        width: 396
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6030a0c60187b4310800000000000000
+      internalID: 1390336921901335302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1485
+        width: 398
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c3bc8127474200800000000000000
+      internalID: 164178120842397975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_3
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1485
+        width: 396
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee539d4c4515c7f0800000000000000
+      internalID: -593044358466150675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1021
+        width: 396
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c1f8cf263f5bd00800000000000000
+      internalID: 987963299747273735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_5
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1021
+        width: 397
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31b489d7bfba3d0800000000000000
+      internalID: -3194182993844694017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_6
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1021
+        width: 399
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4c00e32a17d7a0800000000000000
+      internalID: -6352580007997715158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_7
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1021
+        width: 396
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38bf2d344ef24430800000000000000
+      internalID: 3765851807472924733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 557
+        width: 396
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a44abfbecb5d310800000000000000
+      internalID: 1429256178485185125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 557
+        width: 397
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acade2df40891b80800000000000000
+      internalID: -8423560547690238812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_10
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 557
+        width: 868
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270e20229f03be10800000000000000
+      internalID: 2212128962248574754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 397
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aeffdfe97fa2780800000000000000
+      internalID: -8706874667329131923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 93
+        width: 396
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b05e01312e670c0800000000000000
+      internalID: -4578223399659828401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_13
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 93
+        width: 868
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa408acb840fde0800000000000000
+      internalID: -1301460317200142411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_0: 3319104131474216926
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_1: 1390336921901335302
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_10: 2212128962248574754
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_11: -8706874667329131923
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_12: -4578223399659828401
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_13: -1301460317200142411
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_2: 164178120842397975
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_3: -593044358466150675
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_4: 987963299747273735
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_5: -3194182993844694017
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_6: -6352580007997715158
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_7: 3765851807472924733
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_8: 1429256178485185125
+      dark-set-game-button-elements-progress-bar-bright-different-forms-buttons-games-app_9: -8423560547690238812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
